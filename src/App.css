@@ -48,3 +48,19 @@ button{
   display: flex;
   justify-content: flex-end;
 }
+
+.checked {
+  color: orange;
+}
+
+#navbar{
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+  
+}
+.card-img-top{
+  width: 286px;
+    height: 214px;
+    object-fit: contain;
+}
